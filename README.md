@@ -14,22 +14,16 @@ quick dev environment for simple webpage with reactjs + tailwind css with parcel
 
 * clone this repository 
 ```
-
-git clone https://github.com/carrotCrow/reactailwind-parcelbundler.git
-
+git clone https://github.com/carrotCrow/reactailwind-parcelbundler.git <your __dirname here>
 ```
 * run parcel bundler 
 
 ``` 
-
 npm run dev
-
 ```
 
 * run postcss-cli #editing custom/plugin for tailwindcss
 
 ``` 
-
 npm run build:css
-
 ```
